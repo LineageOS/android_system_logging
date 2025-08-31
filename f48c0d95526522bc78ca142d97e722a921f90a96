@@ -16,6 +16,23 @@
       "message": "So, this at least lets those of us who want to ship local builds w/ adb root Magisk working do so w/o picks. Also useful for debugging cases.\n\nI think this ought to be okay?",
       "revId": "f48c0d95526522bc78ca142d97e722a921f90a96",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "17c9e8de_a42e9c2e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-08-31T06:11:51Z",
+      "side": 1,
+      "message": "proposed alt to https://review.lineageos.org/c/LineageOS/android_system_logging/+/433600",
+      "revId": "f48c0d95526522bc78ca142d97e722a921f90a96",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
