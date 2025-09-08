@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "02c3760e_108950c0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-09-08T05:59:24Z",
+      "side": 1,
+      "message": "Alternative https://review.lineageos.org/c/LineageOS/android_packages_modules_adb/+/450414",
+      "revId": "ffed58f22eb50d81f870e7f5f669492f103afb5e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
